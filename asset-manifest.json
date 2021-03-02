@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/stockcharts/static/css/main.698099ee.chunk.css",
+    "main.js": "/stockcharts/static/js/main.15bfa739.chunk.js",
+    "main.js.map": "/stockcharts/static/js/main.15bfa739.chunk.js.map",
+    "runtime-main.js": "/stockcharts/static/js/runtime-main.ec7c64ac.js",
+    "runtime-main.js.map": "/stockcharts/static/js/runtime-main.ec7c64ac.js.map",
+    "static/js/2.8cb42d39.chunk.js": "/stockcharts/static/js/2.8cb42d39.chunk.js",
+    "static/js/2.8cb42d39.chunk.js.map": "/stockcharts/static/js/2.8cb42d39.chunk.js.map",
+    "index.html": "/stockcharts/index.html",
+    "static/css/main.698099ee.chunk.css.map": "/stockcharts/static/css/main.698099ee.chunk.css.map",
+    "static/js/2.8cb42d39.chunk.js.LICENSE.txt": "/stockcharts/static/js/2.8cb42d39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec7c64ac.js",
+    "static/js/2.8cb42d39.chunk.js",
+    "static/css/main.698099ee.chunk.css",
+    "static/js/main.15bfa739.chunk.js"
+  ]
+}
