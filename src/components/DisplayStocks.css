@@ -1,0 +1,10 @@
+#chart-container {
+  display: flex;
+  justify-content: center;
+}
+
+#stocks-chart {
+  width: 75% !important;
+  height: 75% !important;
+  background-color: black;
+}

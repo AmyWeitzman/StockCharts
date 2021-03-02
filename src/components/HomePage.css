@@ -1,0 +1,23 @@
+#homepage-container {
+  color: white;
+  margin-top: 100px;
+}
+
+#welcome-msg {
+  font-size: 50px;
+}
+
+#welcome-text {
+  font-size: 30px;
+  text-align: center;
+}
+
+#title-text-red {
+  color: red;
+  text-shadow: 3px 2px 5px rgb(252, 92, 92);
+}
+
+#title-text-blue {
+  color: #4a86e8;
+  text-shadow: 3px 2px 5px #76a1e6;
+}
